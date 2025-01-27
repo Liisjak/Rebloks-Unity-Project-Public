@@ -6,6 +6,6 @@ The Assets folder containts C# scripts for gameobjects, audio, camera level sele
 A few game screenshots:
 
 ![alt text](https://github.com/Liisjak/Rebloks-Unity-Project-Public/blob/main/lvl11.png?raw=true)
-![alt text](https://github.com/Liisjak/Rebloks-Unity-Project-Public/blob/main/lvl20.png?raw=true)
-![alt text](https://github.com/Liisjak/Rebloks-Unity-Project-Public/blob/main/lvl3.png?raw=true)
 ![alt text](https://github.com/Liisjak/Rebloks-Unity-Project-Public/blob/main/lvl9.png?raw=true)
+![alt text](https://github.com/Liisjak/Rebloks-Unity-Project-Public/blob/main/lvl3.png?raw=true)
+![alt text](https://github.com/Liisjak/Rebloks-Unity-Project-Public/blob/main/lvl20.png?raw=true)
